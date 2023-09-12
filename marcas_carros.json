@@ -1,41 +1,41 @@
 [
     {
         "nome": "Ferrari",
-        "Fundacao": "1947",
-        "Criador": "Enzo Ferrari",
-        "local de fundacao": "Maranello, Itália",
+        "fundacao": "1947",
+        "criador": "Enzo Ferrari",
+        "local_fundacao": "Maranello, Itália",
         "Logo": "https://logodownload.org/wp-content/uploads/2017/05/ferrari-logo-25.png"
     },
 
     {
         "nome": "Mercedes-Benz",
-        "Fundacao": "1925",
-        "Criador": "Carl Benz",
-        "local de fundacao": "Stuttgart, Alemanha",
+        "fundacao": "1925",
+        "criador": "Carl Benz",
+        "local_fundacao": "Stuttgart, Alemanha",
         "Logo": "https://logodownload.org/wp-content/uploads/2014/04/mercedes-benz-logo-1-1.png"
     },
 
     {
         "nome": "Audi",
-        "Fundacao": "1909",
-        "Criador": "August Horch",
-        "local de fundacao": "Zwickau, Alemanha",
+        "fundacao": "1909",
+        "criador": "August Horch",
+        "local_fundacao": "Zwickau, Alemanha",
         "Logo": "https://assets.stickpng.com/images/580b585b2edbce24c47b2c18.png"
     },
 
     {
         "nome": "Lamborghini",
-        "Fundacao": "1963",
-        "Criador": "Ferruccio Lamborghini",
-        "local de fundacao": "Sant'Agata Bolognese, Itália",
+        "fundacao": "1963",
+        "criador": "Ferruccio Lamborghini",
+        "local_fundacao": "Sant'Agata Bolognese, Itália",
         "Logo": "https://assets.stickpng.com/images/580b585b2edbce24c47b2c89.png"
     },
 
     {
         "nome": "McLaren Automotive",
-        "Fundacao": "1963",
-        "Criador": "Bruce McLaren",
-        "local de fundacao": "Woking, Reino Unido",
+        "fundacao": "1963",
+        "criador": "Bruce McLaren",
+        "local_fundacao": "Woking, Reino Unido",
         "Logo": "https://logodownload.org/wp-content/uploads/2022/02/mclaren-logo-1.png"
     }  
 ]
