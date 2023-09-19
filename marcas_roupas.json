@@ -1,5 +1,5 @@
 [
-    {
+    {   "tipo": "Roupas",
         "nome": "Gucci",
         "fundacao": "1921",
         "criador": "Guccio Gucci",
@@ -7,7 +7,7 @@
         "Logo": "https://logodownload.org/wp-content/uploads/2014/05/Gucci-logo.png"
     },
 
-    {
+    {   "tipo": "Roupas",
         "nome": "Louis Vuitton",
         "fundacao": "1845",
         "criador": "Louis Vuitton",
@@ -15,7 +15,7 @@
         "Logo": "https://logo-download.com/images/louis-vuitton3.png?ezimgfmt=ngcb1/notWebP"
     },
 
-    {
+    {   "tipo": "Roupas",
         "nome": "Prada",
         "fundacao": "1913",
         "criador": "Mario Prada",
@@ -23,7 +23,7 @@
         "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Prada.png"
     },
 
-    {
+    {   "tipo": "Roupas",
         "nome": "Dior",
         "fundacao": "1946",
         "criador": "Christian Dior",
@@ -31,7 +31,7 @@
         "Logo": "https://logodownload.org/wp-content/uploads/2017/04/dior-logo.png"
     },
 
-    {
+    {   "tipo": "Roupas",
         "nome": "Versace ",
         "fundacao": "1978",
         "criador": "Gianni Versace",
